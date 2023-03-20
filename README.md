@@ -1,2 +1,1 @@
-# SKI
-"# Hackathon-ITday" 
+# Hackathon-ITday 
